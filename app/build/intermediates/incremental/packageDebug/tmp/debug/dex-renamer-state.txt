@@ -1,0 +1,4 @@
+#Sun Mar 29 17:50:17 IST 2020
+base.0=/Volumes/Eduardo/ana/Aulas/CUbi/Lab/Collecting/Communication/app/build/intermediates/dex/debug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
