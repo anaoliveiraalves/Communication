@@ -79,13 +79,13 @@ public class MainActivity extends Activity {
         protected String doInBackground(Void... params) {
             try {
                 JSch ssh = new JSch();
-                Session session = ssh.getSession("***REMOVED***", "***REMOVED***", 22);
+                Session session = ssh.getSession("username", "sftpserver", 22);
                 // Remember that this is just for testing and we need a quick access, you can add an identity and known_hosts file to prevent
                 // Man In the Middle attacks
                 java.util.Properties config = new java.util.Properties();
                 config.put("StrictHostKeyChecking", "no");
                 session.setConfig(config);
-                session.setPassword("***REMOVED***");
+                session.setPassword("password");
 
                 session.connect();
                 Channel channel = session.openChannel("sftp");
