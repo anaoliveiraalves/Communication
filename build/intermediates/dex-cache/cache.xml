@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Volumes/Eduardo/ana/Aulas/CUbi/Lab/Collecting/jsch-0.1.55.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ca851f1bacdd98c4fb3656ac9e3bc3131629c229">
+        <dex dex="/Volumes/Eduardo/ana/Aulas/CUbi/Lab/Collecting/Aula1_2/app/build/intermediates/pre-dexed/debug/jsch-0.1.55_6408925eb61ac78fdd71df793f95680e4fe0f4bd.jar" />
+    </item>
+
+</items>

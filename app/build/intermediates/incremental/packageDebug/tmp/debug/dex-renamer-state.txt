@@ -1,0 +1,4 @@
+#Mon Apr 10 21:22:06 BST 2023
+base.0=C\:\\Users\\aalve\\StudioProjects\\Communication\\app\\build\\intermediates\\dex\\debug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
